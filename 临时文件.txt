@@ -1,1 +1,2 @@
 https://github.com/sky0522
+git config --global credential.helper store
